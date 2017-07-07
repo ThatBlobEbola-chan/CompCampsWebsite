@@ -16,7 +16,13 @@ h2 {
 }
 
 tr:nth-child(odd) {
+  text-align: center;
   background-color: purple
+
+}
+
+th {
+  text-align:center;
 }
 
 main {
