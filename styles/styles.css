@@ -1,17 +1,32 @@
 body {
 
 font-family: 'Ubuntu Condensed', sans-serif;
-background-color: #B200B1
+background-color: #B200B1;
+color: #57FF00
 }
 
 h1 {
-  color: #FF00FD
+  text-align: center;
+  color: #57FF00
 }
 
 h2 {
-  color: #FF00FD
+  text-align: center;
+  color: #57FF00
 }
 
-body {
-  color: #57FF00
+tr:nth-child(odd) {
+  background-color: purple
+}
+
+main {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+header {
+background-color: #FF19FD;
 }
